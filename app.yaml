@@ -1,1 +1,4 @@
 runtime: go122
+app_engine_apis: true
+includes:
+- secret.yaml
